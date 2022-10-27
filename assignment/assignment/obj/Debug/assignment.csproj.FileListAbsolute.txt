@@ -1,0 +1,8 @@
+C:\Users\kim\source\repos\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\kim\source\repos\assignment\assignment\obj\Debug\assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\kim\source\repos\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\kim\source\repos\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\kim\source\repos\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\kim\source\repos\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\kim\source\repos\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\kim\source\repos\assignment\assignment\obj\Debug\assignment.pdb
